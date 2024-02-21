@@ -1,5 +1,7 @@
 # Flight Price Prediction Application
 
+<img width="925" alt="SS" src="https://github.com/Munchkinland/ML-web-app-using-Flask-pure-flask-/assets/92251234/7169c267-8c6f-4dc2-ab85-6fec1e11f2f2">
+
 # Introduction to Flight Price Prediction Application
 In the age of digital transformation, the travel industry has experienced a significant shift towards automation and predictive analysis. Our flight price prediction application stands at the forefront of this technological revolution, specifically tailored for the vibrant and diverse market of India.
 
